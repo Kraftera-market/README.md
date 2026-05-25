@@ -1,6 +1,6 @@
 # Kraftera Whitepaper
 
-**Version 1.0** | **2025** | [kraftera.xyz](https://kraftera.xyz)
+**Version 1.0** | **2026** | [kraftera.xyz](https://kraftera.xyz)
 
 > **Buy. Sell. Collect. Create — Onchain.**
 
